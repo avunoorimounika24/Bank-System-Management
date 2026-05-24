@@ -16,4 +16,4 @@ Compile:
 javac BankManagement.java
 
 Run:
-java BankManagement
+java acc
